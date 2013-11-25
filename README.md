@@ -197,7 +197,7 @@ Good packages for minHash
 * https://github.com/rahularora/MinHash
 
 MuSES
------
+=====
 
 [MuSES](https://github.com/yvesx/muses): Multilingual Sentiment Elicitation System for Social Media Data
 
