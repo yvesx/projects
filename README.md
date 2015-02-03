@@ -337,7 +337,7 @@ Many machine learning, statistical, and computational linguistic methods have be
 
 * Publication ``35th ACM SIGIR 2012`` Kunpeng Zhang, Yusheng Xie, Yu Cheng, Doug Downey, Ankit Agrawal, Wei-keng Liao, and Alok Choudhary. *Sentiment Identification by Incorporating Syntactics, Semantics and Context Information* 
 
-* Publication ``under journal review`` Incorporating Conditional Random Fields and Active Learning to Improve Sentiment Identification
+* Publication ``Elsevier Neural Networks`` Incorporating Conditional Random Fields and Active Learning to Improve Sentiment Identification
 
 Main Challenges
 ---------------
